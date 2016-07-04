@@ -16,6 +16,6 @@ $ npm i date-from-timestamp
 
 const dateFromTimestamp
 
-console.log(dateFromTimestamp('1467673344772')) // => 05.07.2016
+console.log(dateFromTimestamp('1467712800000')) // => 05.07.2016
 
 ```
