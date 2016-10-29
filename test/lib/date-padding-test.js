@@ -1,7 +1,7 @@
 'use strict'
 
 const tap = require('tap')
-const datePadding = require('../lib/date-padding')
+const datePadding = require('../../lib/date-padding')
 
 tap.equal('01', datePadding(1), 'It pads single digit')
 
