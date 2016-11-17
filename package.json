@@ -1,7 +1,7 @@
 {
   "name": "date-from-timestamp",
   "description": "Date on format dd.mm.yyyy from timestamp",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "license": "MIT",
   "author": {
     "name": "Geir Gåsodden",
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/telemark/date-from-timestamp",
   "engines": {
-    "node": ">=4.6.1"
+    "node": ">=4.6.2"
   },
   "main": "index.js",
   "scripts": {
