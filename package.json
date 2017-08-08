@@ -1,7 +1,7 @@
 {
   "name": "date-from-timestamp",
   "description": "Date on format dd.mm.yyyy from timestamp",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "license": "MIT",
   "author": {
     "name": "Geir Gåsodden",
