@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/telemark/date-from-timestamp#readme",
   "engines": {
-    "node": ">=8.11.1"
+    "node": ">=8.15.0"
   },
   "main": "index.js",
   "scripts": {
