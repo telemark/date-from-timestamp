@@ -1,5 +1,3 @@
-'use strict'
-
 const datePadding = require('./lib/date-padding')
 
 module.exports = (timestamp) => {
